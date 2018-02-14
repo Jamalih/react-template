@@ -8,13 +8,13 @@ import './assets/stylesheets/style.css'
 /****** ADD YOUR CODE AFTER THIS LINE ******/
 
 const Hello = () => (
-  <div>Hello World!</div>
+  <div>borna</div>
 );
 
 class App extends Component {
   render() {
     return (
-      <Hello />
+      < Hello/>
     );
   }
 }
