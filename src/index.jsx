@@ -7,14 +7,14 @@ import './assets/stylesheets/style.css'
 
 /****** ADD YOUR CODE AFTER THIS LINE ******/
 
-const Hello = () => (
+const Koodi101 = () => (
   <div>borna</div>
 );
 
 class App extends Component {
   render() {
     return (
-      < koodi101/>
+      < Koodi101/>
     );
   }
 }
